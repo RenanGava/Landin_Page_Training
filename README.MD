@@ -1,0 +1,1 @@
+foi uma landing page criada para testar e treinar os conteudos aprendidos no com tudo tendo uma melhora significativa para as outas landing pages.
