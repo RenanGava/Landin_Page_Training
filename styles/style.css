@@ -271,9 +271,14 @@ section.sessao1 .container{
 }
 
 .sobre-autor{
+    display: none;
     float: left;
     max-width: 600px;
     padding-left: 30px;
+}
+
+.view{
+    display: block;
 }
 
 .titulo-autor{
@@ -344,7 +349,7 @@ section.sessao1 .container{
     background-color: rgb(200,200,200);
 }
 
-.slider-bullets span:first-child{
+.slider-bullets span.selected{
     /* para mostar como se a primeira boliha estivesse selecionada. */
     background-color: grey;
 }
